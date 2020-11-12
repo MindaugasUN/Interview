@@ -33,8 +33,10 @@ Create Rest API for parking solution
  
  - Only 1 active session per vehicle number plate
  
- # Bonus task 
+ # Bonus tasks
  
- Create UI for testing. It can be web or other application type. 
+ - Create UI for testing. It can be web or other application type. 
+ - Implement payment API with pricing rule OnStreet 1Eur/hour / OffStreet 2Eur/h pricing rule
+ - CRUD API for Fine management
 
 
