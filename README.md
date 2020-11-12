@@ -23,7 +23,7 @@ Create Rest API for parking solution
   - It must have unique zone name
   - It must have have System property that defines Vendor (vendor can be VendorA or VendorB)
   - During parking stop  Vendor must be informed via REST API (example: HTTP DELETE /vendorA/Stop with payload {Vehicle number plate})
-  - If Vendor request fails - mark payment session as failed for future processing by creating Fine record
+  - If Vendor request fails - mark parking session as failed for future processing by creating Fine record
  
  ### Fine record 
  - Must have timespamp when happen
